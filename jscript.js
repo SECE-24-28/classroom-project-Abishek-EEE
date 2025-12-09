@@ -9,5 +9,4 @@ b=25;
 console.log("the updated value of b is "+b);
 const c=40;
 console.log("The value of c is:" +c);
-c=45;
-console.log("Updated value of c is"+ c);
+c=45;console.log("Updated value of c is"+ c);
